@@ -6,8 +6,9 @@
   #heading
     {
       border-radius: 10px;
-      width: 100%;
+      width: 75%;
       margin: 0px;
+      margin-right: 150px;
       font-size: xx-large;
       font-weight: bold;
     }
@@ -47,3 +48,19 @@
       text-shadow: 0 0 3px #FF0000;
     }
    
+.back{
+  font-size: x-large;
+  font-weight: bold;
+  margin-top:10px;
+  margin-left: 10px;
+  float: left;
+  border-radius: 10px;
+  border: 1px solid black;
+}
+
+canvas{
+  box-shadow: 1px 1px 40px yellow;
+  border-radius: 10px;
+  border: 5px solid yellow;
+  margin-top: 45px;
+}
